@@ -1,0 +1,4 @@
+[submodule "extra_packages/aegis-ros-messages"]
+	path = extra_packages/aegis-ros-messages
+	url = git@github.com:aegis-rider/aegis-ros-messages.git
+	branch = main
